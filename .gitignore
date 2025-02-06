@@ -1,4 +1,4 @@
 *.csv
 /.vscode
 *.exe
-*.txt
+output.txt
